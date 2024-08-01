@@ -1,17 +1,15 @@
-# <Título do projeto>
+# Análise de Fatores Influenciando Gorjetas em Restaurantes
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+As gorjetas representam uma fonte significativa de renda para muitos trabalhadores da indústria de serviços. Entender os fatores que afetam o valor das gorjetas pode ajudar restaurantes a otimizar seus serviços e estratégias de atendimento ao cliente, além de oferecer insights para melhorar a satisfação dos clientes e a eficiência operacional.
+
+Por conta disso este projeto tem como objetivo analisar os fatores que influenciam a quantidade de gorjetas dadas por clientes em um restaurante. Utilizando o dataset "tips", serão exploradas diversas variáveis para entender melhor como diferentes aspectos do comportamento dos clientes e das circunstâncias da refeição impactam as gorjetas. 
+
+
 
 ## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
+ - [Pedro Joás](https://github.com/PedroJoas)
 
 ---
-
-> **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
 
 ## Funcionalidades
 
